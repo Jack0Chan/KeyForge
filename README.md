@@ -7,3 +7,13 @@
 
 # Env
 python=3.11
+
+
+
+https://www.keyforgegame.com/deck-details/9672f1ad-1114-4c07-8be8-a966ac023dba
+
+<img src="README.assets/image-20230629134039214.png" alt="image-20230629134039214" style="zoom:25%;" />
+
+https://decksofkeyforge.com/decks?expansions=601
+
+<img src="README.assets/image-20230629134057551.png" alt="image-20230629134057551" style="zoom: 25%;" />
